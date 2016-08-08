@@ -1,0 +1,24 @@
+_repo: The-Later-Works-of-Titian_12657
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phillips, Claude, Sir
+    birthdate: 1846
+    deathdate: 1924
+    gutenberg_agent_id: '4462'
+    url: http://www.gutenberg.org/2009/agents/4462
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Titian, approximately 1488-1576'
+- !lcc 'ND'
+- GITenberg
+title: The Later Works of Titian
+url: http://www.gutenberg.org/ebooks/12657
